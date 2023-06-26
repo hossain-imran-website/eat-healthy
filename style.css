@@ -1,0 +1,35 @@
+body{
+    font-family: 'Kanit', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+
+.eat-healthy {
+    display: flex;
+    
+}
+.diet-food{
+    width:40%
+    margin-left:5%;
+    margin-right:5%;
+    padding-left: 5%;
+    padding-right:5%;
+   
+}
+.men-body {
+    width:80%;
+    background-image: url(images/shapes);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.men-body img{
+    width:80%
+}
+.link-button{
+    padding: 10px 20px;
+    background-color: green;
+    margin-top:10px;
+    color:white;
+    border-radius: 5px;
+}
